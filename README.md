@@ -23,9 +23,6 @@ Visual components and Python
 
 ![ex 2](https://github.com/Hemaatchu/Open-Jacson-Networks/assets/147328300/1df03ffe-cef0-451b-8259-a6a88a1bb4fe)
 
-![ex 3](https://github.com/Hemaatchu/Open-Jacson-Networks/assets/147328300/b11676e2-a224-4adc-b6e4-728c68c63e35)
-
-![ex 4](https://github.com/Hemaatchu/Open-Jacson-Networks/assets/147328300/baf703b2-bb5a-4096-a37f-edbafed466df)
 
 ## Program
 
