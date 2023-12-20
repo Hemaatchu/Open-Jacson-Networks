@@ -36,8 +36,7 @@ Ref no. 212223230076
 
 ## Output
 
-![output ex 6](https://github.com/Hemaatchu/Open-Jacson-Networks/assets/147328300/89bf20b1-ae78-4313-b0c0-43bf08634758)
-
+![ex 6 output](https://github.com/Hemaatchu/Open-Jacson-Networks/assets/147328300/00bb26c0-26cd-48b2-b7d0-eb0a2b228200)
 
 ## Result
 The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
