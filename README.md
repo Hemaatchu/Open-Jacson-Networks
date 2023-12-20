@@ -1,3 +1,4 @@
+# DATE 
 # Series Queues with infinite capacity - Open Jackson Network
 
 ## Aim :
@@ -18,10 +19,25 @@ Visual components and Python
 
 ## Experiment:
 
+![EX 1](https://github.com/Hemaatchu/Open-Jacson-Networks/assets/147328300/0cec090c-9d34-4701-ae6e-2a4d1418c04e)
+
+![ex 2](https://github.com/Hemaatchu/Open-Jacson-Networks/assets/147328300/1df03ffe-cef0-451b-8259-a6a88a1bb4fe)
+
+![ex 3](https://github.com/Hemaatchu/Open-Jacson-Networks/assets/147328300/b11676e2-a224-4adc-b6e4-728c68c63e35)
+
+![ex 4](https://github.com/Hemaatchu/Open-Jacson-Networks/assets/147328300/baf703b2-bb5a-4096-a37f-edbafed466df)
 
 ## Program
 
+Developed by S.Hemavathy
+Ref no. 212223230076
+
+![program ex 6](https://github.com/Hemaatchu/Open-Jacson-Networks/assets/147328300/02c084a4-3138-49f4-a040-f16e1691ef25)
 
 ## Output
 
+![output ex 6](https://github.com/Hemaatchu/Open-Jacson-Networks/assets/147328300/89bf20b1-ae78-4313-b0c0-43bf08634758)
+
+
 ## Result
+The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
